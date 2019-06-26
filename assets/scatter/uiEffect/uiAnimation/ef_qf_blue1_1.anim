@@ -1,0 +1,29 @@
+{
+  "__type__": "cc.AnimationClip",
+  "_name": "ef_qf_blue1_1",
+  "_objFlags": 0,
+  "_native": "",
+  "_duration": 10,
+  "sample": 60,
+  "speed": 1,
+  "wrapMode": "2",
+  "curveData": {
+    "paths": {
+      "fazheng01/fazheng": {
+        "props": {
+          "angle": [
+            {
+              "frame": 0,
+              "value": 0
+            },
+            {
+              "frame": 10,
+              "value": -360
+            }
+          ]
+        }
+      }
+    }
+  },
+  "events": []
+}
